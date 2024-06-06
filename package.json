@@ -1,8 +1,8 @@
 {
   "name": "ra_currency_convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The currency convertor where you can change your curreny",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "bin": "index.js",
   "scripts": {
